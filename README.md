@@ -1,12 +1,5 @@
 # Lunar lander con html, css y javascript
-Versión esqueleto del juego Lunar Landing que incluye:
-
-* Html con los elementos básicos del juego
-* Css: d.css y m.css dos versiones que cargan mediante media query dependiendo del tamaño de pantalla.
-* Js: programación realista básica necesaria para dejar caer la nave y parar cuando llega a un límite. Actualiza la velocidad y la altura en %/s y % (1% de pantalla = 1 metro).
-* No dispone de imágenes.
-
-Previsualización: https://rawgit.com/urbinapro/lunar-landing-javascript/master/index.html
+https://rawgit.com/urbinapro/lunar-landing-javascript/master/index.html
 
 Tareas a desarrollar:
 * Ponerlo bonito según vuestro diseño anterior. No te olvides de optimizar las imágenes. Recuerda que se pueden cargar diferentes tamaños y formas de fondos en función del dispositivo usando css.
@@ -17,6 +10,4 @@ Tareas a desarrollar:
 * Debes poder elegir diferentes valores umbrales: 1m/s en modo difícil, 5m/s en modo muy fácil.
 * Debe haber una página de *How to play* y una página de *About* accesibles desde el menú (vas a otras páginas saliendo del juego con un avisador o mensaje de comfirmación de que sales de la partida).
 
-Cualquier otra funcionalidad o cambio debe quedar debidamente documentado.
-
-**Este repositorio es susceptible de sufrir modificaciones sin previo aviso**
+Tareas realizadas cortar y pegar mis imagenes a las paginas de lunar-landing que contiene css y javascrip que funciona y intentar quitar errores que van surgiendo.
