@@ -6,3 +6,4 @@ Una vez que funciona en local lo paso por rawGit y validator y voy quitando erro
 
 Sigo con tutoriales de w3schools y devcode.la para coger conocimientos basicos de progamación para ver si cojo el hilo de la asignatura.
 
+Tambien he conseguido hacer una version minifier que la he puesto en un branch llamado Html minifier.
