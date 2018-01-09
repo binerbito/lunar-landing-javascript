@@ -4,5 +4,5 @@ Tareas realizadas cortar y pegar mis imagenes a las paginas de lunar-landing que
 
 Una vez que funciona en local lo paso por rawGit y validator y voy quitando errores, solucionando errores y que funcione la pagina en internet. 
 
-Sigo con tutoriales para coger conocimientos basicos de progamación para ver si cojo el hilo de la asignatura.
+Sigo con tutoriales de w3schools y devcode.la para coger conocimientos basicos de progamación para ver si cojo el hilo de la asignatura.
 
